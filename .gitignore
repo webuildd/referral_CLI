@@ -1,0 +1,17 @@
+.env
+
+# Data containing private email addresses
+data/
+
+
+# Logs
+sent_log.csv
+
+# Python virtual environment
+myenv/
+
+# Cache, compiled, editor files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
