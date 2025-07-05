@@ -20,7 +20,7 @@ A command-line tool that helps job seekers automate personalized referral email 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/webuildd/referral_CLI
-cd referralCLI_tool
+cd referral_CLI
 ```
 ### 2. Create and fill the ```.env``` file
 ```
